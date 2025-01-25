@@ -107,9 +107,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
- <b>✯ Maintained by : <a href={}>Owner</a></b>
+ <b>✯ Maintained by : <a href={@rahul_srm_official}>Owner</a></b>
   
- <b>✯ Join here : <a href={}>Update Channel</a></b> 
+ <b>✯ Join here : <a href={@srm_movies}>Update Channel</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -245,8 +245,9 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
-
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+<b>⚙️ sɪᴢᴇ : {file_size}
+<b>» <a href="https://t.me/srm_request_movie">Mᴏᴠɪᴇs Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ</a> «
+<b>» <a href="https://t.me/srm_movies">Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ Lɪɴᴋs</a> «</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
