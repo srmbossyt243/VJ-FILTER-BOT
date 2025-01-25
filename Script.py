@@ -107,9 +107,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
- <b>✯ Maintained by : <a href={https://t.me/rahul_srm_official}>Owner</a></b>
+ <b>✯ Maintained by : <a href='https://t.me/rahul_srm_official'>Owner</a></b>
   
- <b>✯ Join here : <a href={https://t.me/srm_movies}>Update Channel</a></b> 
+ <b>✯ Join here : <a href='https://t.me/srm_movies'>Update Channel</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
